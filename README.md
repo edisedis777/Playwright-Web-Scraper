@@ -90,8 +90,7 @@ To customize the data extraction logic:
 playwright-web-scraper/
 ├── scraper.py           # Main scraper code
 ├── requirements.txt     # Project dependencies
-├── README.md            # This file
-└── .gitignore           # Git ignore file
+└── README.md            # This file
 ```
 
 ## Logging

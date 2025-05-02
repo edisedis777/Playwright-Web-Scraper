@@ -2,7 +2,6 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
 A robust, object-oriented web scraping framework built with Python and Playwright designed for reliable data extraction from websites with pagination. The scraper generates structured CSV output and includes comprehensive logging.
@@ -129,10 +128,10 @@ These logs contain information about:
 
 3. **Use for legitimate purposes** only
 
-## License
-
-MIT License - See LICENSE file for details
-
 ## Disclaimer
 
 This tool is for educational purposes only. Users are responsible for ensuring their use of this scraper complies with the target website's terms of service and relevant laws and regulations.
+
+## License
+
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
